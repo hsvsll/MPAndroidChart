@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="transparent">#00ffffff</color>
+    <color name="line_color">#ff7413</color>
+    <color name="bg_color">#FFF0E0</color>
+    <color name="circle_color">#ff7413</color>
+</resources>
